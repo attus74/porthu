@@ -3,7 +3,7 @@
   "description": "Port.hu TV API",
   "type": "library",
   "keywords": [
-    "Handball",
+    "Port.hu",
     "TV"
   ],
   "autoload": {
