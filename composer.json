@@ -1,0 +1,26 @@
+{
+  "name": "attus/porthu",
+  "description": "Port.hu TV API",
+  "type": "library",
+  "keywords": [
+    "Handball",
+    "TV"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Attus\\PortHu\\": "src/"
+    }
+  },
+  "homepage": "https://github.com/attus74/porthu",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Attila Németh",
+      "email": "attus@germanicus.hu",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.5"
+  }
+}
