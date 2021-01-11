@@ -1,5 +1,7 @@
 # Port.hu API
 
+[![GitHub release](https://img.shields.io/github/release/attus74/porthu.svg)](https://GitHub.com/attus74/porthu/releases/)
+
 API for reading the program of Hungarian TV directory Port.hu
 
 ```php
